@@ -23,7 +23,7 @@ npm install
 npm start
 ```
 
-On first run the tool will ask for your MEGA email and password. Your credentials are saved locally in `~/.mega-send.json` so you only need to enter them once.
+On first runu should select "Switch accounts". This way you can log in to ur mega account and start uploading shareable files.
 
 From the menu you can:
 - Upload a file by entering its full path (e.g. `/home/user/Documents/file.txt`)
