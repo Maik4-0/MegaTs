@@ -9,11 +9,11 @@ A terminal tool for uploading files to MEGA cloud storage and getting a shareabl
 
 ## Installation
 
-Clone the repository and install dependencies:
+Clone the repository into the folder you want and install dependencies:
 
 ```bash
 git clone https://github.com/Maik4-0/MegaTs.git
-cd MegaTs
+cd ~/MegaTs
 npm install
 ```
 
