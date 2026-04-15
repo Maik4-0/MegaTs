@@ -13,7 +13,7 @@ Clone the repository into the folder you want and install dependencies:
 
 ```bash
 git clone https://github.com/Maik4-0/MegaTs.git
-cd ~/MegaTs
+cd /MegaTs
 npm install
 ```
 
